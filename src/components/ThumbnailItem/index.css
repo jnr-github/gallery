@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumb-image {
+  height: 15vh;
+  width: 15vw;
+}
+.button {
+  border: none;
+}
+.active {
+  opacity: 1;
+}
+.thumbnail {
+  opacity: 0.5;
+  height: 65px;
+  width: 65px;
+}
